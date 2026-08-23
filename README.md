@@ -33,14 +33,16 @@ The project builds on a previous exploratory analysis and focuses on turning dat
 - **Copiers** showed strong profitability despite lower sales compared with some other sub-categories.
 
 ## Dashboard
-## Executive Dashboard
-Super store business performance.png)
+## Executive dashboard
+# Super Store Business Performance
+![Super Store Business Performance](Super%20store%20business%20performance.png)
+
 
 ### Product & Customer Analysis
-!(Product and customer performance.png)
+![Product and Customer Performance](Product%20and%20customer%20performance.png)
 
 ### Profitability & Business Risks
-!(Profitability and business risks.png)
+![Profitability and Business Risks](Profitability%20and%20business%20risks.png)
 
 ## Outcome
 
