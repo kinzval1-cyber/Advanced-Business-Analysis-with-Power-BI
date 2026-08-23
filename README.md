@@ -35,14 +35,13 @@ The project builds on a previous exploratory analysis and focuses on turning dat
 ## Dashboard
 
 ### Executive Dashboard
-![Super store business performance](Super-store-business-performance.png)
+![Super store business performance](Super store business performance.png)
 
 ### Product & Customer Analysis
-![Product & Customer Analysis](product-and-customer-performance.png)
+![Product & Customer Analysis](Product and customer performance.png)
 
 ### Profitability & Business Risks
-![Profitability & Business Risks](profitability-and-business-risks.png)
-
+![Profitability & Business Risks](Profitability and business risks.png)
 ## Outcome
 
 The project demonstrates how Power BI and DAX can be used to transform transactional data into **meaningful business intelligence and data-driven recommendations**.
