@@ -35,13 +35,13 @@ The project builds on a previous exploratory analysis and focuses on turning dat
 ## Dashboard
 
 ### Executive Dashboard
-![Executive Dashboard](Images/Super-store-business-performance.png)
+![Super store business performance](Super-store-business-performance.png)
 
 ### Product & Customer Analysis
-![Product & Customer Analysis](Images/product-and-customer-performance.png)
+![Product & Customer Analysis](product-and-customer-performance.png)
 
 ### Profitability & Business Risks
-![Profitability & Business Risks](Images/profitability-and-business-risks.png)
+![Profitability & Business Risks](profitability-and-business-risks.png)
 
 ## Outcome
 
