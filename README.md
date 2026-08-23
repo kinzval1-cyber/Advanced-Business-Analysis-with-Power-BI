@@ -33,15 +33,15 @@ The project builds on a previous exploratory analysis and focuses on turning dat
 - **Copiers** showed strong profitability despite lower sales compared with some other sub-categories.
 
 ## Dashboard
-
-### Executive Dashboard
-!(Super store business performance.png)
+## Executive Dashboard
+Super store business performance.png)
 
 ### Product & Customer Analysis
 !(Product and customer performance.png)
 
 ### Profitability & Business Risks
 !(Profitability and business risks.png)
+
 ## Outcome
 
 The project demonstrates how Power BI and DAX can be used to transform transactional data into **meaningful business intelligence and data-driven recommendations**.
